@@ -1,0 +1,3 @@
+Gamemode	Description
+0		Show Logo
+1		Fade 2 Black
